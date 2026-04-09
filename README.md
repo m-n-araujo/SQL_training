@@ -18,6 +18,7 @@ You may NOT:
 ✘ Sell or monetize this project
 ✘ Use in paid courses, SaaS, or training
 ✘ Copy, modify, or redistribute as your own work
+
 📘 Purpose
 
 This project provides interactive SQL exercises for learning purposes only.
