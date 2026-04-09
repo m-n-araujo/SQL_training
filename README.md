@@ -1,52 +1,71 @@
-# SQL_training
+<h1>🧠 SQL Learning Lab</h1>
 
-🧠 SQL Learning Lab
+<p>Free SQL learning project for educational use.</p>
 
-Free SQL learning project for educational use.
+<hr>
 
-⚖️ License & Use
+<h2>⚖️ License & Use</h2>
 
-Copyright © 2026 — All Rights Reserved
+<p><strong>Copyright © 2026 — All Rights Reserved</strong></p>
 
-You may:
+<p>You may:</p>
+<ul>
+  <li>✔ Use for personal learning</li>
+  <li>✔ Share with attribution</li>
+</ul>
 
-✔ Use for personal learning
-✔ Share with attribution
+<p>You may NOT:</p>
+<ul>
+  <li>✘ Sell or monetize this project</li>
+  <li>✘ Use in paid courses, SaaS, or training</li>
+  <li>✘ Copy, modify, or redistribute as your own work</li>
+</ul>
 
-You may NOT:
+<hr>
 
-✘ Sell or monetize this project
-✘ Use in paid courses, SaaS, or training
-✘ Copy, modify, or redistribute as your own work
+<h2>📘 Purpose</h2>
 
-📘 Purpose
+<p>This project provides interactive SQL exercises for learning purposes only.</p>
 
-This project provides interactive SQL exercises for learning purposes only.
+<p>Includes:</p>
+<ul>
+  <li>Educational content</li>
+  <li>Source code</li>
+  <li>Synthetic datasets</li>
+</ul>
 
-Includes:
+<hr>
 
-Educational content
-Source code
-Synthetic datasets
-⚠️ Disclaimer
+<h2>⚠️ Disclaimer</h2>
 
-Provided “as is”, without warranties.
+<p>This project is provided <strong>"as is"</strong>, without warranties.</p>
 
-The author is not responsible for:
+<p>The author is not responsible for:</p>
+<ul>
+  <li>Errors or omissions</li>
+  <li>Misuse of the content</li>
+  <li>Any outcomes from using this project</li>
+</ul>
 
-Errors or omissions
-Misuse of the content
-Any outcomes from using this project
-🧩 Intellectual Property
+<hr>
 
-All content in this project is protected, including:
+<h2>🧩 Intellectual Property</h2>
 
-Code
-Learning structure
-Exercises and explanations
+<p>All content in this project is protected, including:</p>
+<ul>
+  <li>Code</li>
+  <li>Learning structure</li>
+  <li>Exercises and explanations</li>
+</ul>
 
-Unauthorized commercial use is prohibited.
+<p><strong>Unauthorized commercial use is prohibited.</strong></p>
 
-📩 Contact
+<hr>
 
-For licensing or commercial use → contact the author
+<h2>📩 Contact</h2>
+
+<p>For licensing or commercial use → contact the author</p>
+
+<hr>
+
+<p><strong>Use it to learn. Not to resell.</strong></p>
